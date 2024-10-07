@@ -128,4 +128,4 @@ Your account will be TERMINATED if caught in the next banwave.
 ### 1 day ban (first offense)
 ### 3 day ban 
 ### 7 day ban
-### Account / IP or HWID Banning
+### Account / IP or HWID Banning (RARE / FUTURE PUNISHMENT)
